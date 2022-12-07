@@ -58,7 +58,7 @@
 
 ## UML Use Class
 
-![img](https://i.postimg.cc/bNPcTcxx/Untitled-Workspace.png)
+![img](https://i.postimg.cc/mk1FqvfR/UML-Class.png)
 
 ## UML Use Sequence
 
