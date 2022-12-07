@@ -56,6 +56,10 @@
 * Номинальная частота повторения прецедента: 3 раза в неделю
 * Продолжительность прецедента: 5 минут 
 
+## UML Use Class
+
+![img](https://i.postimg.cc/bNPcTcxx/Untitled-Workspace.png)
+
 ## UML Use Sequence
 
 ![img](https://i.postimg.cc/rsqWfPnh/image.jpg)
