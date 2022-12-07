@@ -18,7 +18,7 @@
 
 ## UML Use Case
 
-![img](https://postimg.cc/4Y9qx6PT)
+![img](https://i.postimg.cc/L8CpvvZh/uml.jpg)
 
 ### Участники (actors) и цели (goals)
 
